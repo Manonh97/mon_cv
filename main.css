@@ -1,0 +1,53 @@
+.m_colone_d {
+    background-color: #F1BDC1;
+}
+
+.m_colone_g {
+    background-color: #Fff;
+}
+li {
+    font-size: 15px;
+
+}
+p{
+    font-size: 15px;
+    color: #000000;
+}
+div span{
+    color: #f16767;
+}
+.dates{
+    
+    color: #000000;
+    text-align: center;
+    font-size: 13px;
+   
+    
+   
+
+}
+.sous_titre{
+    background-color: #00dafb;
+    color: #Fff;
+    border-radius: 8px;
+    box-shadow:0 5px 9px #42a1ff;
+    text-align: center;
+    font-size: 27px;
+    
+    
+}
+.titre2 {
+    font-size: 35px;
+}
+
+.progress-bar {
+    background-color: #00dafb;
+}
+
+#titre_formation {
+    border-radius: 25px !important;
+}
+
+#titre_expérience{
+    border-radius: 25px !important
+}
